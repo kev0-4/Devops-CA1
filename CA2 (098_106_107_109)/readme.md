@@ -17,9 +17,7 @@
 * 🖼️ **Screenshots Report:** [DevOps_CA2_SS (2).pdf](https://drive.google.com/file/d/1IrKVE0sq02NWEs00TXoa6tlW99x1-K90/view?usp=sharing)
 * 💻 **Main Project (QuickCV):** [GitHub Repository](https://github.com/mananbhimjiyani/QuickCV)
 * 📊 **Kaggle Notebook:** [RSNA Intracranial Aneurysm Detection](https://www.kaggle.com/code/kevintandonbtech2022/notebook-rsna-test2)
-Below is the link to your Kaggle **submission screenshot**:
-[Submission Screenshot](https://drive.google.com/file/d/1vN3uk9zLhSCrkVWODNI_i9teqmF8IAoV/view?usp=sharing)
-
+* 📸 **Kaggle Submission Screenshot:** [View Screenshot](https://drive.google.com/file/d/1vN3uk9zLhSCrkVWODNI_i9teqmF8IAoV/view?usp=sharing)
 ---
 
 ## 🚀 Project Overview
